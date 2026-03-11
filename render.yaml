@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ae-api
+    runtime: docker
+    plan: free
+    autoDeploy: true
